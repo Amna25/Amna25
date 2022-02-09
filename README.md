@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Development...
 - ⚡ Fun fact: I speak three languages every day and can read Arabic as a fourth language...
 
-
-[![MasterHead](https://reheader.glitch.me/)](https://github.com/Amna25)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25)](https://github.com/Amna25/Amna25/edit/main/README.md)
