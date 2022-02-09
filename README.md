@@ -9,11 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Development...
 - ⚡ Fun fact: I speak three languages every day and can read Arabic as a fourth language...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25/Amna25)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25/Amna25&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25/Amna25&show_icons=true&theme=radical)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amna25/Amna25&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna25)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Amna25>&theme=<radical>" />
