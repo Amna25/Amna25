@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna25&show_icons=true&theme=radical)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amna25&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
