@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently student at CodeClan ...
-- 🌱 I’m  learning Software Development...
+👨‍💻 Software Developer | .NET 8 & Angular Enthusiast  
+🚀 Building efficient, scalable apps with a focus on performance and clean architecture
 - ⚡ Fun fact: I speak three languages every day and can read Arabic as a fourth language...
 
 
