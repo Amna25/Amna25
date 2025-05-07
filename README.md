@@ -2,7 +2,6 @@
 
 👨‍💻 I'm a Software Developer passionate about .NET, Angular.   
 🚀 Building efficient, scalable apps with a focus on performance and clean architecture
-
 🌍 Fun fact: I speak three languages daily and can read Arabic as my fourth!
 
 
