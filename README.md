@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna25&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻 Languages & Technologies I Use
+### 💻 Languages & Technologies I Have Experience With
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
